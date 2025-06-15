@@ -1,0 +1,79 @@
+header{
+    background-color:  #181511;
+    
+}
+
+.title{
+    font-family:'old-bold'; 
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    color: #FFAE2B;
+    
+
+
+}
+
+.atl{
+    padding: 25px 0 26px;
+}
+
+.alt__wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+
+}
+
+.atl__menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.atl__menu-link{
+    font-family: 'old-bold';
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #ACA592;
+    transition: 0.3s;
+
+}
+
+.atl__menu-link:hover{
+    color: #FFAE2B;
+}
+
+.altt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 42px;
+}
+
+.atl__btn{
+    padding: 15px 25px;
+    color: #FFAE2B;
+    border: 1px solid #FFAE2B;
+    background-color: transparent;
+    cursor: pointer;
+    font-family: 'old-bold', sans-serif;
+     font-weight: 400;
+    font-size: 11px;
+    line-height: 22px;
+    text-transform: uppercase;
+    transition: 0.3s;
+
+
+}
+
+.atl__btn:hover{
+    background-color: #FFAE2B;
+    color: #181511;
+    border: 1px solid #FFAE2B;
+}

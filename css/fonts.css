@@ -1,0 +1,16 @@
+@font-face{
+    font-family:'old-bold';
+    src: url(../fonts/OldStandardTT-Bold.ttf) format('truetype');
+}
+
+@font-face{
+    font-family:'old-it';
+    src: url(../fonts/OldStandardTT-Italic.ttf) format('truetype');
+}
+
+@font-face{
+    font-family:'old-reg';
+    src: url(../fonts/OldStandardTT-Regular.ttf) format('truetype');
+}
+
+
